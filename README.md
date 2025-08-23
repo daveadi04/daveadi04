@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Any cloud project**
 
-- 👨‍💻 All of my projects are available at [In Progress.....](In Progress.....)
+- 👨‍💻 All of my projects are available at [In Progress.....]
 
 - 💬 Ask me about **Java Spring boot, Azure, Microsoft Exchange, AWS AI, AWS Cloud**
 
