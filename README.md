@@ -21,7 +21,7 @@
 
 - ⚡ Fun fact **I think I have good sense of humor.**
 
-- ⏳ Just Getting started with Git. 🚧
+- ⏳ Just Getting started with Git. Meanwhile, it would be great to connect 🤝
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
