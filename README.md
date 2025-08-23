@@ -12,7 +12,7 @@
 - 🏆 Recent Achievements:  
    - **AWS Certified AI Practitioner**  
    - **Google Analytics Certified**
-   - 
+   
 - 👨‍💻 All of my projects are available on GIT.
 
 - 💬 Ask me about **Java Spring boot, Azure, Microsoft Exchange, AWS AI, AWS Cloud**
