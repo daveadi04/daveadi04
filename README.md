@@ -14,14 +14,15 @@
    - Administered **Azure AD/AD** (user lifecycle), **Intune policies**, and **Okta (SSO/IdP)** for access management and troubleshooting.  
    - Supported **Citrix Virtual Apps & Desktops**; diagnosed session/connectivity issues; contributed to **3 migration waves** migrating data for **500+ users**.  
 
-- 🌐 **Network System Administrator @ Life Labs (Jan 2024 – Apr 2024)**  
-   - Led **Cisco switch configuration & replacement** projects.  
-   - Improved system efficiency by **20%** and reduced downtime by **30%**.  
-   - Resolved **95% of technical tickets** promptly.  
+ - 🌐 Network System Administrator @ Life Labs, Mississauga, ON (Jan 2024 – Apr 2024)  
+   - Configured and replaced **Cisco switches** as part of a network upgrade project.  
+   - Monitored network performance, increasing efficiency by **20%** and reducing downtime by **30%**.  
+   - Provided technical support, resolving **95% of tickets promptly** to maintain operations.  
 
-- 🎓 **Student Ambassador @ Sheridan College (Sept 2024 – Apr 2025)**  
-   - Boosted student engagement by **30%** through events & outreach.  
-   - Led **10+ successful campus events** and conducted guided tours.  
+-  🎓 Student Ambassador @ Sheridan College, Oakville (Sept 2024 – Apr 2025)  
+   - Led **20+ campus tours and events**, boosting student engagement by ~**30%**.  
+   - Delivered frontline support and guidance to **prospective students**, improving overall campus experience.  
+  
 
 - 🛠️ **Projects & Labs**  
    - Built **Fitness Application in Java** with interactive UI.  
