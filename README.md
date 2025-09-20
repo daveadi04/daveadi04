@@ -7,12 +7,12 @@
 
 <h3 align="left">💼 Professional Experience & Insights</h3>
 
-- ## 🖥️ Technical Support Engineer @ TRADER Corporation (Sept 2024 – Aug 2025)
+- ** 🖥️ Technical Support Engineer @ TRADER Corporation (Sept 2024 – Aug 2025)
 
-- Resolved hardware, software, and network incidents via **Jira, Azure AD, and Exchange**; ~90% first-pass resolution; reduced downtime.  
-- Built **Jira automations** (routing/prefill), cutting manual entry by **~40%** and team effort by **~20%**.  
-- Administered **Azure AD/AD** (user lifecycle), **Intune policies**, and **Okta (SSO/IdP)** for access management and troubleshooting.  
-- Supported **Citrix Virtual Apps & Desktops**; diagnosed session/connectivity issues; contributed to **3 migration waves** migrating data for **500+ users**.  
+   - Resolved hardware, software, and network incidents via **Jira, Azure AD, and Exchange**; ~90% first-pass resolution; reduced downtime.  
+   - Built **Jira automations** (routing/prefill), cutting manual entry by **~40%** and team effort by **~20%**.  
+   - Administered **Azure AD/AD** (user lifecycle), **Intune policies**, and **Okta (SSO/IdP)** for access management and troubleshooting.  
+   - Supported **Citrix Virtual Apps & Desktops**; diagnosed session/connectivity issues; contributed to **3 migration waves** migrating data for **500+ users**.  
 
 - 🌐 **Network System Administrator @ Life Labs (Jan 2024 – Apr 2024)**  
    - Led **Cisco switch configuration & replacement** projects.  
